@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+###赵磊：
+	iOS Coder
 
 ### More Information
 
