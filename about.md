@@ -6,6 +6,7 @@ permalink: /about/
 
 ###赵磊：
 	* iOS Coder
+	QQ:729376398
 
 ### More Information
 
