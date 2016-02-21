@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ###赵磊：
-	iOS Coder
+	* iOS Coder
 
 ### More Information
 
